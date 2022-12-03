@@ -1,0 +1,86 @@
+commit a45a7b6aa19f24e1811d473fc54614efb94e02ef
+Merge: 5f9b20e a28da59
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Sat Dec 3 13:16:59 2022 -0500
+
+    Merge branch 'main' of https://github.com/JuanRomero16/curso-git
+
+commit 5f9b20e9bee93c297ced97e2055f5825ed0993bc
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Sat Dec 3 13:08:35 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit a28da597c7e0a67fff9869deb514fe2e1abad31c
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Sat Dec 3 13:08:35 2022 -0500
+
+    Agregando las estaciones del año
+
+commit e96d7d3a221edc485fd2b6575add882d68f7f6ee
+Merge: 9bdba91 cec9399
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Sat Dec 3 00:45:18 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit cec9399d6888ca62b0772aa785f3945cd32196d0
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Sat Dec 3 00:38:47 2022 -0500
+
+    Agregando index.js al index.html
+
+commit 9bdba91bd2c115e9c9931932fa5b06c4dcf31252
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Sat Dec 3 00:36:52 2022 -0500
+
+    Agregando style.css al index.html
+
+commit 85de15082469ea876f2568c91003337d11ada825
+Merge: b22ed79 6c80114
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Sat Dec 3 00:28:13 2022 -0500
+
+    Merge branch 'js'
+
+commit 6c80114763bc38305766d3a704c64c80af3256fd
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Sat Dec 3 00:23:12 2022 -0500
+
+    Creando index.js
+
+commit b22ed7919d03a41722c29f9958002be4f8388efa
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Sat Dec 3 00:18:22 2022 -0500
+
+    Creando style.css
+
+commit 295eeb1608bba40b820f5aba634847ac79e9ca0c
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Sat Dec 3 00:14:27 2022 -0500
+
+    Creando index.html
+
+commit 881b422de0fefed69a82d07534fd361ce3252cd7
+Author: JuanRomero16 <100343157+JuanRomero16@users.noreply.github.com>
+Date:   Fri Dec 2 21:21:19 2022 -0500
+
+    Creando licencia del repositorio
+
+commit 604df953946ed4b150bce1fa8460cd79f81e70fc
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Fri Dec 2 21:14:16 2022 -0500
+
+    Agregando mas contenido al README
+
+commit d3566fd299cf160cdacaa45cfa90df7f946aad18
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Fri Dec 2 21:04:21 2022 -0500
+
+    Agregar contenido inicial al README
+
+commit 1cae80382b725d1b228c8e580b4f715c4e82ed0c
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Fri Dec 2 20:57:43 2022 -0500
+
+    Primer commit 😁
