@@ -1,21 +1,60 @@
-commit a45a7b6aa19f24e1811d473fc54614efb94e02ef
-Merge: 5f9b20e a28da59
+commit de737efcfa9dd7921f4975eeb4e671f836e7887e
+Merge: e4152df 5046db5
+Author: JuanRomero16 <100343157+JuanRomero16@users.noreply.github.com>
+Date:   Sun Dec 4 18:29:35 2022 -0500
+
+    Merge pull request #1 from juandev016/readme-juandev016
+    
+    Haciendo mejoras al README del repositorio
+
+commit 5046db5ea21c8e7ce3e9bbf2285d08a335d007ca
+Author: Juan Dev 016 <hadan.amalgama@gmail.com>
+Date:   Sun Dec 4 18:06:39 2022 -0500
+
+    Haciendo mejoras al README del repositorio
+
+commit e4152dfe55b01e951823f9deb6aa01df8329d24f
+Merge: 96e626e b3adcb7
 Author: Juan Romero <juanromerochumpitaz@gmail.com>
-Date:   Sat Dec 3 13:16:59 2022 -0500
+Date:   Sun Dec 4 15:43:30 2022 -0500
 
     Merge branch 'main' of https://github.com/JuanRomero16/curso-git
 
-commit 5f9b20e9bee93c297ced97e2055f5825ed0993bc
+commit 96e626e8c4e49e96e1a707447f2e940f7998a183
 Author: Juan Romero <juanromerochumpitaz@gmail.com>
-Date:   Sat Dec 3 13:08:35 2022 -0500
+Date:   Sat Dec 3 17:26:08 2022 -0500
 
-    Agregando estaciones del año con fecha de inicio
+    Agregando imagen de flujo GIT y poniendo chulo el index.html
 
-commit a28da597c7e0a67fff9869deb514fe2e1abad31c
+commit b3adcb7155c1765ccf5539783e3677e424985256
 Author: Juan Romero <juanromerochumpitaz@gmail.com>
-Date:   Sat Dec 3 13:08:35 2022 -0500
+Date:   Sat Dec 3 17:26:08 2022 -0500
 
-    Agregando las estaciones del año
+    Agregando imagen de flujo GIT y poniendo chulo el index.html
+
+commit f6839f789bfcbf243a6900eb946647009bd89142
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Sat Dec 3 17:08:06 2022 -0500
+
+    v1.0.0
+
+commit 0fc22e407d6a7dd3dc445e217343aa3110287a39
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Sat Dec 3 15:07:41 2022 -0500
+
+    Respaldando logs del repositorio
+
+commit d931b54e4a34438dcd9ff6ab7a182f583e7daf6b
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Sat Dec 3 14:03:19 2022 -0500
+
+    Agregando los parrafos
+
+commit 6012258f5755b7d9de5799f8e2850f0cdd55d62f
+Author: Juan Romero <juanromerochumpitaz@gmail.com>
+Date:   Sat Dec 3 13:58:16 2022 -0500
+
+    Agregando estaciones del año con fecha
 
 commit e96d7d3a221edc485fd2b6575add882d68f7f6ee
 Merge: 9bdba91 cec9399
